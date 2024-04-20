@@ -1,6 +1,6 @@
 ### Description
 
-A simple portfolio template using React JS 
+A simple portfolio template using React JSll
 
 ### Setup
 
